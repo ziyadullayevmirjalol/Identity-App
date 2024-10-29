@@ -1,0 +1,17 @@
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\bin\Debug\net8.0\IdentityApp.Data.deps.json
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\bin\Debug\net8.0\IdentityApp.Data.runtimeconfig.json
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\bin\Debug\net8.0\IdentityApp.Data.dll
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\bin\Debug\net8.0\IdentityApp.Data.pdb
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\bin\Debug\net8.0\IdentityApp.Domain.dll
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\bin\Debug\net8.0\IdentityApp.Domain.pdb
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\obj\Debug\net8.0\IdentityApp.Data.csproj.AssemblyReference.cache
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\obj\Debug\net8.0\IdentityApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\obj\Debug\net8.0\IdentityApp.Data.AssemblyInfoInputs.cache
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\obj\Debug\net8.0\IdentityApp.Data.AssemblyInfo.cs
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\obj\Debug\net8.0\IdentityApp.Data.csproj.CoreCompileInputs.cache
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\obj\Debug\net8.0\Identity.01941385.Up2Date
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\obj\Debug\net8.0\IdentityApp.Data.dll
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\obj\Debug\net8.0\refint\IdentityApp.Data.dll
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\obj\Debug\net8.0\IdentityApp.Data.pdb
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\obj\Debug\net8.0\IdentityApp.Data.genruntimeconfig.cache
+C:\Users\mirja\source\repos\Identity-App\IdentityApp.Data\obj\Debug\net8.0\ref\IdentityApp.Data.dll
